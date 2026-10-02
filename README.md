@@ -89,8 +89,8 @@ Mini-SOC-Threat-Detection-Incident-Response/
 │   └── Project_Report.pdf
 ├── screenshots/
 │   └── (Selected project evidence)
-└── demo/
-    └── (Demo video link or instructions)
+└── └── demo/
+    └── Demo video is available in the Demo Video section
 ```
 
 Add the `screenshots/` and `demo/` materials if you choose to include them. Avoid uploading credentials, private keys, or sensitive system information.

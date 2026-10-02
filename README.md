@@ -97,8 +97,8 @@ Add the `screenshots/` and `demo/` materials if you choose to include them. Avoi
 
 ## Documentation and Demonstration
 
-- **Project Report:** [`docs/Project_Report.pdf`](docs/Project_Report.pdf)
-- **Demo Video:** Add a link to the recorded demonstration here.
+- - **Project Report:** [View Project Report](docs/Project_Report_SOC.pdf)
+- - **Demo Video:** [Watch Mini-SOC Demo](https://drive.google.com/file/d/1Ghq65fDM1LUWb7D3sKzIdW2S_LH5_zzU/view?usp=sharing)
 
 The report documents the lab architecture, implementation steps, command summaries, test evidence, results, challenges, and security recommendations.
 
